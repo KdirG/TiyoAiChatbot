@@ -1,0 +1,15 @@
+Here's the information on how to manage backups, address performance issues, customize print layouts, and connect terminals in TIYO:
+
+How to Back Up Data in TIYO
+To back up your TIYO data, simply copy the 'DATA' directory located within the main TIYO installation folder. We're currently working on an in-application backup feature, which will be available very soon.
+
+Slowdowns at the User Security Screen When Launching TIYO
+This issue is no longer a concern as TIYO now utilizes FireBird. Users experiencing this problem should update to the latest version of the application.
+
+How to Change Your Print Output Designs in TIYO
+You can modify your print designs using the rprdizayn application, which is located in the TIYO installation directory. All TIYO print designs are stored under the 'FRF' directory within the same installation folder.
+
+How to Connect to TIYO from Terminals
+You don't need to share any folders on the main machine where the TIYO database is located. However, if there are firewall applications preventing access to this machine, you must configure them to allow access to the FireBird server application.
+
+After that, on the terminal machine, press Ctrl+B on the User Security screen at the application login to open the Connection Properties window. You'll need to make the necessary settings there. For detailed instructions on these settings, please refer to the TIYO Interactive Training Application.

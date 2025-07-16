@@ -1,0 +1,41 @@
+What TIYO Does
+TIYO performs the expected operations of a commercial software package, such as Stock Tracking, Current Account Tracking, Check and Bill Tracking, and Cash Tracking. Additionally, it offers the features detailed below and includes modules and capabilities not found in other commercial software packages on the market.
+
+Stock Tracking Capabilities
+You can define as many warehouses as you need and track them individually.
+
+You can group your products by brand and a criterion you define.
+
+You can track your products using their barcodes, and for products without barcodes, you can generate and print them.
+
+You can track products with serial numbers.
+
+You can enter dimensions (width, length, quantity) for measured products.
+
+In addition to those mentioned above, many more capabilities are available; these are listed as basic needs.
+
+Current Account Tracking Capabilities
+You can group your current accounts and generate group reports.
+
+You can track your current accounts in any currency type you prefer.
+
+You can query and report on the status of your current accounts based on various criteria.
+
+You can obtain detailed statements related to your current accounts.
+
+In addition to those mentioned above, many more capabilities are available; these are listed as basic needs.
+
+Financial Capabilities
+You can define your credit card machines and process commission-based transactions.
+
+You can perform installment sales and installment collections, and print related statements.
+
+You can work with as many foreign currency types as you wish.
+
+You can track documents like checks and bills and perform all related transactions.
+
+With the EXPENSE MANAGEMENT MODULE, you can track all your expenses and gain insights into their status and periodic movements.
+
+You can report on your cash balance within any desired date range.
+
+In addition to those mentioned above, many more capabilities are available; these are listed as basic needs.

@@ -1,0 +1,37 @@
+Demo & Updates
+Here's an overview of our application versions and how to get started:
+
+| Application       | Release Date | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               The following describes the terms under which Tiyonet and its related services are offered.
+
+Demo & Updates
+Here's an overview of our application versions and how to get started:
+
+Application
+
+Release Date
+
+Description
+
+T.İ.Y.O. v2x Demo
+
+10.02.2020
+
+A fully functional demo version, but with limitations on usage time and the number of records.
+
+
+All our installation and service applications are designed to be user-friendly, requiring minimal effort from you. Simply download from the relevant link and install it. For detailed information, please refer to the "Installation and Initial Preparations" section on our help page. All our applications have been thoroughly checked for viruses.
+
+Application
+
+Release Date
+
+Description
+
+T.İ.Y.O. Service Package
+
+10.02.2020
+
+An upgrade package to the latest version for existing TIYO users.
+
+Important Information for Demo Installation:
+After completing the demo installation, you must run the "Lisans" application, which is located in the directory where the application was installed. In the Lisans application, enter "1" in the "License No" field and your company's title in the "Company Name" field, then click the "Lisansla" (License) button. You need to perform this step to be able to use the application in demo mode.

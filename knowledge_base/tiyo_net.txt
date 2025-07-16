@@ -1,0 +1,3 @@
+TiyoNET (TIYO Integrated Online Sales Site Application) works seamlessly with TIYO, offering you the ability to sell online. With this application, you can instantly launch your virtual store and start receiving orders. You won't need to make any effort to update your online sales branch.
+
+Since you're already updating your stocks, accounts, and sales prices in the TIYO application, these changes are immediately reflected in TiyoNET, eliminating any need for separate updates. You can instantly view orders placed online directly within TIYO and even process invoicing directly from those orders.

@@ -1,0 +1,7 @@
+TIYO is the only application that can establish the information infrastructure required by today's management approach, which is built upon fundamental principles such as increased efficiency and full control of expenses under current economic conditions.
+
+1. Stock Cost Report, Purchase Reports, Sales Reports
+These reports allow for a detailed examination of periodic increases and decreases in business volume, and how these fluctuations impact profitability. Furthermore, the Periodic Profit Analysis and Income Statement provide a precise measurement of the business's efficiency.
+
+2. Advanced Expense Management Module
+This module is designed to track all expense transactions incurred by businesses during their operations. With it, managers can monitor all their business expenses, analyze them in detail, and accurately identify the reasons for any increases or decreases in expenditures.

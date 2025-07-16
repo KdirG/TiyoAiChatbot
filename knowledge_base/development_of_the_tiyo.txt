@@ -1,0 +1,13 @@
+Why TIYO Was Developed
+However, existing commercial software applications on the market haven't been able to achieve this until now. Those that attempted to embrace such changes ended up creating more complex and difficult-to-understand applications, moving away from what is known as "user-friendly" features.
+
+This is precisely why TIYO was developed: to fill the gap for an application that aligns with today's evolving commercial understanding, boasts a strong technical infrastructure, is easy to use, and is truly user-friendly.
+
+Following the development journey of commercial applications since their inception, it's clear they've made significant technical advancements. Yet, it's also a fact that they've largely revolved around the same tasks without keeping pace with changes in business life and shifts in management methods. Such applications need to be re-structured from the ground up to meet current conditions and demands, providing clearer answers to the needs of managers and employees.
+
+T.İ.Y.O. Development Process
+Since 1996, the software team at Uzman Bilgisayar, which specializes in developing custom software, has simultaneously kept a close eye on commercial applications. Beyond tracking these applications, they've also monitored changes in economic conditions and the resulting shifts in mentality within commercial businesses, both for increasing efficiency and for establishing new management systems.
+
+In light of this information, in 2003, they began analysis and project planning to develop an application that aligns with current technical requirements and supports the newly formed commercial management philosophy.
+
+Following this initiation, the System Analysis was completed in 2004. Subsequently, the coding and testing phases of the application began, leading up to the present day. As a result, TIYO was brought to fruition after four years of dedicated work.

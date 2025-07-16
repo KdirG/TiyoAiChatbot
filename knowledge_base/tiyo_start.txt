@@ -1,0 +1,26 @@
+Here's a guide on where to start after completing the TIYO installation:
+
+Now That You've Completed the Installation, Where Do We Begin?
+After installing TIYO, you'll need to configure a few key parameters to get your business operations up and running.
+
+Initial Setup
+Stock Parameters: Start by going to Program Parameters and selecting Stock Parameters. Here, you should define the brands and groups for the products you buy and sell. You'll also need to set up your unit and VAT definitions.
+
+Current Account Parameters: Next, navigate to Current Account Parameters to define the types of current accounts you work with, and their groups if desired.
+
+Currency Definitions: Under Program Parameters, go to Daily Exchange Rates, then switch to the Currencies tab. Define all the currencies your business uses. Keep in mind that the first currency you define will be your base currency.
+
+Warehouse Definitions: Access Warehouse Definitions from Program Parameters to define your existing warehouses. Even if you only have one, it still needs to be defined.
+
+Entering Core Data
+Stock Introduction: After completing the above steps, you can begin introducing your stock items. Go to Stock Management and select Stock Introduction Card to start adding your products.
+
+Current Account Introduction: In Purchase and Sales Management, use the Current Account Introduction Card to define your vendors, customers, banks, and other primary current accounts. It's important to note that only current accounts related to your main business activities (e.g., suppliers for products you resell, customers you sell to) should be defined here. Current accounts related to your business expenses (e.g., a company you bought renovation materials from, a supplier of consumables used in your office) are not defined in this section.
+
+POS Machine and Collection Type Definitions: If your business uses POS (Credit Card) machines, you must define them by going to POS Machine and Collection Types Definitions under Program Parameters.
+
+Expense Management Module: To keep your business expenses under control, go to General Management and Other Expense Transactions under Financial Management, then select Expense Group and Item Introduction Card. Here, you need to define the groups and items for your expenses. You have complete flexibility to create expense groups and their corresponding items to perfectly suit your business's structure.
+
+Opening Balances: You can enter your current stock levels as of the moment you start using the application via the Warehouse Entry Slip under Stock Management. The status of your current accounts can be entered through the Account Opening Slip under Financial Management.
+
+Once these steps are completed, you can begin entering your daily transactions such as waybills, invoices, collections, and payments, and start generating related reports. While all this information is available in the T.İ.Y.O. Interactive Training Application, it has been provided here to guide you through the initial setup phase.

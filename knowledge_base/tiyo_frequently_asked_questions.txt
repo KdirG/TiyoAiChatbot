@@ -1,0 +1,19 @@
+Here's information regarding TIYO training, pricing, accounting capabilities, how it assists managers, payment options, and required accompanying software:
+
+Who Provides TIYO Training?
+Any TIYO Business Partner can provide training for TIYO. However, you can also self-train effectively using the Interactive TIYO Training Application. This application explains the entire software, complete with audio, video, and examples.
+
+What Are TIYO's Prices?
+The list sales price for TIYO is 2000 TL + VAT. This covers the main user license. For additional users, there's a charge of 500 TL + VAT per user. If additional users are purchased in packages of 5, a 20% discount is applied.
+
+Can Official Accounting Be Tracked with TIYO?
+TIYO does not perform official accounting itself, but it creates the necessary information infrastructure for official accounting. This module is generally unnecessary for businesses, except for those that handle their official accounting internally. Furthermore, TIYO can provide information such as taxable income and incurred VAT for desired periods.
+
+How Does TIYO Assist Managers?
+One of the most fundamental differences between TIYO and other commercial applications is its ability to easily prepare the necessary information groundwork for management decisions. With the Advanced Expense Management Module, managers can effortlessly and in detail track increases or decreases in business expenses and understand their underlying causes. Additionally, through other reports, they can observe changes in business volume and monitor overall business efficiency.
+
+What Payment Facilities Are Available When Purchasing TIYO?
+In addition to its affordable price, TIYO offers very convenient payment facilities. You have the option to pay in 12 commission-free installments via credit card.
+
+Is There Any Application We Need to Purchase Along with TIYO?
+No. TIYO uses FireBird 2.x. Since this is an Open License application, you do not need to purchase it separately.

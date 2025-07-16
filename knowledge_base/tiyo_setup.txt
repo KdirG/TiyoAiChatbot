@@ -1,0 +1,18 @@
+Installation Procedures
+The TIYO application installation is designed to handle all settings and prepare the application for use with minimal effort from the user. If you're installing from the CD, the setup will automatically start when you insert the CD and guide you through the process. If it doesn't run automatically, or if you want to install the application downloaded from our website, you'll need to run Kur.exe.
+
+Step 1.
+Before installing the application, we need some information about the computer where it will be installed. First, your computer should have hardware capable of comfortably running Windows 98 (a registered trademark of Microsoft) or a newer operating system. Since our application uses the FireBird database, we need to know if FireBird is already installed on your computer. If it's not, our installation application will install it for you.
+
+Step 2.
+After proceeding past the Welcome message in the installation application, you'll encounter the Installation Directory Selection Screen. On this screen, after choosing the directory where the application will be installed, and based on the information gathered in Step 1, if FireBird is already installed on your computer, the "Install FireBird" option should be unchecked. Following this screen, the "Installation in Progress" screen will appear, where the necessary application files are extracted, and the "Admin" user, the basic user of our application, is defined. If a FireBird user with this name already exists, it will still display an error message but continue with the installation. The installation is complete once the screen indicating completion appears.
+
+Step 3.
+Within the directory you specified on the Installation Directory Selection screen, you'll find the Lisans, TiYon, Tiyo, and rprdizayn applications, along with the necessary folders. You can create shortcuts for any of these applications as you wish. To use the application in demo or licensed mode, you must first run Lisans.exe. If you want to try the application in demo mode, enter "1" into the "License No" field and your business's title into the "Company Name" field in the License application, then click the "License" button to start using it in demo mode.
+
+Step 4.
+In this step, you must first run TiYon (TIYO Management Application) and define the company and period you'll be working with. On the Security screen that appears when entering the TiYon application, the ADMIN user will be pre-filled. The ADMIN user, who is the administrator, can use the TiYon Application. The password for the ADMIN user is "1". Within the TiYon application, open the "Company Identification Card" from the "Parameters" menu to define the company you'll be working with. Then, go to "New Period Opening" under the "Periodic Operations" menu to define the period you wish to work in (e.g., 2009).
+
+Once these definitions are complete, you're done with the TiYon application. You can now run the TIYO application. On the Security screen that appears at the start of the application, press Ctrl+B. For your first login only, enter the period information you defined in TiYon into the "Period" field. When you return from this screen, enter your password and press Enter or click the "OK" button to enter the application.
+
+After these steps are completed, the application can be used. If you want to learn how to use the application, you can use the TIYO Interactive Training Application to learn TIYO with audio and video guidance.
