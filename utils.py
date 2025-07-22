@@ -27,7 +27,7 @@ def apply_output_filter(response_text):
         # İlk cümle her zaman alınır
         if not cleaned:
             cleaned.append(sentence.strip())
-        # Soru işaretli cümleler veya sonrasında gelenleri kes
+        # Soru işaretli cümleler veya sonrasında gelenleri kes (Bu mantık hala aktif)
         elif "?" in sentence:
             break 
         else:

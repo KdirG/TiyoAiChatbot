@@ -18,5 +18,3 @@ def load_embedding_model(device):
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2").to(device)
     print("Embedding modeli yüklendi.")
     return embedding_model
-    
-    
